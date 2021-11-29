@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Danden1
+- 👋 Hi, I’m @Danden1(YongHa Kwon)
 - 👀 I’m interested in domain adaptation and domain generalization.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me yongha.kwon12@gmail.com
 
 <!---
 Danden1/Danden1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
