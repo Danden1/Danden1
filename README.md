@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danden1(YongHa Kwon)
-- 👀 I’m interested in domain adaptation and domain generalization.
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in computer vision and RL.
+- 🌱 I’m currently learning domain generalization.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yongha.kwon12@gmail.com
 
