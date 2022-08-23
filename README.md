@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danden1(YongHa Kwon)
-- 👀 I’m interested in computer vision and RL.
-- 🌱 I’m currently learning domain generalization.
+- 👀 I’m interested in computer vision and backend.
+- 🌱 I’m currently backend.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yongha.kwon12@gmail.com
 
