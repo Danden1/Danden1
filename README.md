@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Danden1(YongHa Kwon)
-- 👀 I’m interested in computer vision and backend.
-- 🌱 I’m currently ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in computer vision and backend(spring, distributed system).
+- 🌱 I’m currently studing spring boot and kafka.
 - 📫 How to reach me yongha.kwon12@gmail.com
 
 <!---
@@ -15,3 +14,5 @@ You can click the Preview link to take a look at your changes.
 my blog
 
 https://danden.tistory.com/
+
+
