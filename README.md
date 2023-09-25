@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danden1(YongHa Kwon)
 - 👀 I’m interested in computer vision and backend(spring, distributed system).
-- 🌱 I’m currently studing spring boot and kafka.
+- 🌱 I’m currently studing spring boot and webflux.
 - 📫 How to reach me yongha.kwon12@gmail.com
 
 <!---
