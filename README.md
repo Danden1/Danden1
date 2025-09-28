@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danden1(YongHa Kwon)
-- 👀 I’m interested in RL and backend(spring, distributed system).
-- 🌱 I’m currently studing backend system, ML.
+- 👀 I’m interested in backend(spring, distributed system, MSA ...) and AI.
+- 🌱 I’m currently studing backend system(MSA, AI).
 - 📫 How to reach me yongha.kwon12@gmail.com
 
 <!---
