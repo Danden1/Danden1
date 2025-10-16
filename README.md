@@ -10,14 +10,3 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
-Portfolio
-
-https://midi-roast-2dd.notion.site/37b8b6a95de249e2a34e2421dc4db5b9
-
-<br>
-Blog
-
-https://danden.tistory.com/
-
-
