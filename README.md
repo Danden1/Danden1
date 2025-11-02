@@ -3,8 +3,8 @@
 - 🌱 I’m currently studing backend system(MSA, AI).
 - 📫 How to reach me yongha.kwon12@gmail.com
 
-  
-- [Blog](https://danden.tistory.com/)
+- [Blog, new, eng](https://danden1.github.io/)
+- [Blog, old, kor](https://danden.tistory.com/)
 - [Resume](https://midi-roast-2dd.notion.site/298819c4ce86809fa297cc05c9babb42)
 
 <!---
